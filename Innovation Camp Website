@@ -10,8 +10,23 @@
     <header>
         <img class="logo" src="Group 1.png" width="320px" height="100px">
     </header>
-    <section>
-        
+        <section class="boxes">
+            <div>
+              <button>
+                  <h2>Why</h2>
+              </button>
+            </div>
+            <div>
+              <button>
+                  <h2>What</h2>
+              </button>
+            </div>
+            <div>
+              <button>
+                  <h2>How</h2>
+              </button>
+            </div>
+
     </section>
 
 </body>
