@@ -1,0 +1,91 @@
+body {
+    background-image: url('puzzlebackground.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  header {
+    background: rgba(107, 58, 120, 1);
+    padding: 20px;
+  }
+
+  img.center {
+    display: block;
+    margin: 0 auto;
+  }
+
+  h1 {
+    color: rgba(107, 58, 120, 1);
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 40px;
+  }
+
+  section {
+    background-image: url('puzzlebackground.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgba(107, 58, 120, 1);
+    padding: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .transbox {
+    background-color: rgba(255,255,255,0.8);
+    color: rgba(107, 58, 120, 1);
+    padding: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .boxes {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .imagebutton {
+    border-radius: 15px;
+    padding: 5px;
+  }
+
+  .imgtext {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: rgba(107, 58, 120, 1);
+  }
+
+  .pictureelements {
+    margin: auto;
+    text-align: center;
+  }
+
+  button {
+    background-color: white;
+    border-radius: 15px;
+    border: none;
+  }
+
+  footer{
+    background: rgba(107, 58, 120, 1);
+    color: white;
+    padding: 10px 20px;
+    font-family: sans-serif;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+
+  li {
+    display: inline-block;
+    margin-right: 20px;
+  }
